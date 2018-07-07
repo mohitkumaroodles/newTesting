@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello im inserting the file here.......
 adding line 2 in git cone1
 
@@ -5,3 +6,21 @@ kya hai yrr....kuckajdslkf;j klk;ajs;ldfkj ;
 aklsdjf;lk jasl;dj
 alksjd f;lkjas;ldf
 kas;l djf;lkajs;ldfjal;kj;lkfadj;lajsd;lfja
+=======
+hello im inserting the file here......
+asdfsa df.
+
+
+adding line 2 in git cone1
+adfs
+
+
+df
+
+
+
+
+
+hello...adding new file .
+
+>>>>>>> 1c10355058481dfafaa25c6f33aa90680aea3e4d
